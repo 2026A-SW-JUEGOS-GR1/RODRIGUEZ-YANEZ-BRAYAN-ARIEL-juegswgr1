@@ -1,0 +1,32 @@
+{
+    "activeFile": "00-2d/mapa.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "00-2d/mapa.json": {
+            "scale": 0.7755859374999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 486.7287836816923,
+                "y": 320.40292117854443
+            }
+        },
+        "00-2d/mapa.json#backround": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Hp/Documentos/9vo semestre/Desarrollo de Juegos Interactivos/RODRIGUEZ-YANEZ-BRAYAN-ARIEL-juegswgr1/00-2d",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "00-2d/mapa.json"
+    ],
+    "project": "rosas-project.tiled-project",
+    "recentFiles": [
+        "00-2d/mapa.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
